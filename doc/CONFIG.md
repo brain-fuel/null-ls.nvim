@@ -13,7 +13,7 @@ showing how to install it and its dependencies using
 
 ```lua
 use({
-    "jose-elias-alvarez/null-ls.nvim",
+    "brain-fuel/null-ls.nvim",
     config = function()
         require("null-ls").setup()
     end,

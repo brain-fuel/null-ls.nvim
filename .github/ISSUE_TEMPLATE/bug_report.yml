@@ -8,7 +8,7 @@ body:
       label: FAQ
       options:
         - label:
-            I have checked the [FAQ](https://github.com/jose-elias-alvarez/null-ls.nvim#faq) and it didn't resolve my
+            I have checked the [FAQ](https://github.com/brain-fuel/null-ls.nvim#faq) and it didn't resolve my
             problem.
           required: true
 
@@ -18,7 +18,7 @@ body:
       label: Issues
       options:
         - label:
-            I have checked [existing issues](https://github.com/jose-elias-alvarez/null-ls.nvim/issues?q=is%3Aissue) and
+            I have checked [existing issues](https://github.com/brain-fuel/null-ls.nvim/issues?q=is%3Aissue) and
             there are no issues with the same problem.
           required: true
 
@@ -51,7 +51,7 @@ body:
       label: Minimal Config
       render: Lua
       description: Download the minimal config using `curl -fLO
-        https://raw.githubusercontent.com/jose-elias-alvarez/null-ls.nvim/main/scripts/minimal_init.lua`. Edit it to
+        https://raw.githubusercontent.com/brain-fuel/null-ls.nvim/main/scripts/minimal_init.lua`. Edit it to
         include the configuration necessary to reproduce your bug and paste it here. Do **not** use your personal null-ls
         config!
     validations:
